@@ -1,4 +1,4 @@
-# SentimentAnalysis_Task
+# **CodeTech Sentiment Analysis Task**
 
 ### **Company:** CodeTech IT Solutions
 ### **Name:** Hrishikesh Divekar
